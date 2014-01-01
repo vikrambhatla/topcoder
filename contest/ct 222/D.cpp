@@ -1,3 +1,4 @@
+#ifdef no_compile
 #include<iostream>
 #include<cstdio>
 #include<algorithm>
@@ -51,7 +52,7 @@ int clique(int n){
 	int i, j, ns;
 	for (mx = 0, i = n - 1; i >= 0; --i){
 		for (ns = 0, j = i + 1; j < n; ++j)
-			if (g(i, j)) stk[1][++ns] = j;
+		if (g(i, j)) stk[1][++ns] = j;
 		dfs(n, ns, 1);
 		dp[i] = mx;
 	}
@@ -73,3 +74,4 @@ int main() {
 //####...........
 //...............
 //...............
+#endif

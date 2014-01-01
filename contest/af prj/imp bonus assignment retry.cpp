@@ -1,3 +1,4 @@
+#ifdef no_compile 
 #include<iostream>
 #include<cstdio>
 #include<algorithm>
@@ -80,3 +81,4 @@ int main() {
 
 	return 0;
 }
+#endif

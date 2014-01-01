@@ -10,5 +10,29 @@
     <ClCompile Include="contest\af prj\imp bonus assignment retry.cpp">
       <Filter>srm 589 div2</Filter>
     </ClCompile>
+    <ClCompile Include="contest\af prj\imp bonus assignment.cpp">
+      <Filter>srm 589 div2</Filter>
+    </ClCompile>
+    <ClCompile Include="contest\cf hny\A.cpp">
+      <Filter>srm 589 div2</Filter>
+    </ClCompile>
+    <ClCompile Include="contest\cf hny\B.cpp">
+      <Filter>srm 589 div2</Filter>
+    </ClCompile>
+    <ClCompile Include="contest\cf hny\C.cpp">
+      <Filter>srm 589 div2</Filter>
+    </ClCompile>
+    <ClCompile Include="contest\cf hny\D.cpp">
+      <Filter>srm 589 div2</Filter>
+    </ClCompile>
+    <ClCompile Include="contest\ct 222\A.cpp">
+      <Filter>srm 589 div2</Filter>
+    </ClCompile>
+    <ClCompile Include="contest\ct 222\B.cpp">
+      <Filter>srm 589 div2</Filter>
+    </ClCompile>
+    <ClCompile Include="contest\ct 222\D.cpp">
+      <Filter>srm 589 div2</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

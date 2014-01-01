@@ -12,6 +12,14 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="contest\af prj\imp bonus assignment retry.cpp" />
+    <ClCompile Include="contest\af prj\imp bonus assignment.cpp" />
+    <ClCompile Include="contest\cf hny\A.cpp" />
+    <ClCompile Include="contest\cf hny\B.cpp" />
+    <ClCompile Include="contest\cf hny\C.cpp" />
+    <ClCompile Include="contest\cf hny\D.cpp" />
+    <ClCompile Include="contest\ct 222\A.cpp" />
+    <ClCompile Include="contest\ct 222\B.cpp" />
+    <ClCompile Include="contest\ct 222\D.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{715BABA8-559D-41D0-8039-5EBF35D354C4}</ProjectGuid>

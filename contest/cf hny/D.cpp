@@ -1,3 +1,4 @@
+#ifdef no_compile
 #include<iostream>
 #include<queue>
 #include<string>
@@ -39,3 +40,4 @@ int main() {
 	puts("Happy new year!");
 	return 0;
 }
+#endiff
