@@ -11,7 +11,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="GearsDiv2.cpp" />
+    <ClCompile Include="contest\af prj\imp bonus assignment retry.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{715BABA8-559D-41D0-8039-5EBF35D354C4}</ProjectGuid>

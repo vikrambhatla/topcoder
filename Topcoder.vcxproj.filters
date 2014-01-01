@@ -7,7 +7,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="GearsDiv2.cpp">
+    <ClCompile Include="contest\af prj\imp bonus assignment retry.cpp">
       <Filter>srm 589 div2</Filter>
     </ClCompile>
   </ItemGroup>
