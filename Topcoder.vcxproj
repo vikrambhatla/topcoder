@@ -11,6 +11,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="array_test.cpp" />
+    <ClCompile Include="BinPacking.cpp" />
+    <ClCompile Include="BinPackingEasy.cpp" />
     <ClCompile Include="contest\af prj\imp bonus assignment retry.cpp" />
     <ClCompile Include="contest\af prj\imp bonus assignment.cpp" />
     <ClCompile Include="contest\cf hny\A.cpp" />
@@ -20,6 +23,13 @@
     <ClCompile Include="contest\ct 222\A.cpp" />
     <ClCompile Include="contest\ct 222\B.cpp" />
     <ClCompile Include="contest\ct 222\D.cpp" />
+    <ClCompile Include="ErasingCharacters.cpp" />
+    <ClCompile Include="FoxAndFencingEasy.cpp" />
+    <ClCompile Include="IncrementAndDoubling.cpp" />
+    <ClCompile Include="TypoCoderDiv2.cpp" />
+    <ClCompile Include="WinterAndCandies.cpp" />
+    <ClCompile Include="WinterAndMandarins.cpp" />
+    <ClCompile Include="WinterAndReindeers.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{715BABA8-559D-41D0-8039-5EBF35D354C4}</ProjectGuid>

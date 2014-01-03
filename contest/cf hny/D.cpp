@@ -40,4 +40,4 @@ int main() {
 	puts("Happy new year!");
 	return 0;
 }
-#endiff
+#endif
