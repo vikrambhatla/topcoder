@@ -16,6 +16,7 @@
     <ClCompile Include="BinPackingEasy.cpp" />
     <ClCompile Include="contest\af prj\imp bonus assignment retry.cpp" />
     <ClCompile Include="contest\af prj\imp bonus assignment.cpp" />
+    <ClCompile Include="contest\af prj\imp bonus assingement 892468 last try.cpp" />
     <ClCompile Include="contest\cf hny\A.cpp" />
     <ClCompile Include="contest\cf hny\B.cpp" />
     <ClCompile Include="contest\cf hny\C.cpp" />
@@ -26,6 +27,13 @@
     <ClCompile Include="ErasingCharacters.cpp" />
     <ClCompile Include="FoxAndFencingEasy.cpp" />
     <ClCompile Include="IncrementAndDoubling.cpp" />
+    <ClCompile Include="lightoj\1004 - Monkey Banana Problem.cpp" />
+    <ClCompile Include="lightoj\1005 - Rooks.cpp" />
+    <ClCompile Include="lightoj\1011 - Marriage Ceremonies.cpp" />
+    <ClCompile Include="lightoj\1013 - Love Calculator.cpp" />
+    <ClCompile Include="lightoj\1017 - Brush (III).cpp" />
+    <ClCompile Include="lightoj\1018 - Brush (IV).cpp" />
+    <ClCompile Include="lightoj\1021 - Painful Bases.cpp" />
     <ClCompile Include="TypoCoderDiv2.cpp" />
     <ClCompile Include="WinterAndCandies.cpp" />
     <ClCompile Include="WinterAndMandarins.cpp" />

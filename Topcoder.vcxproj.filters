@@ -64,5 +64,29 @@
     <ClCompile Include="array_test.cpp">
       <Filter>srm 589 div2</Filter>
     </ClCompile>
+    <ClCompile Include="lightoj\1004 - Monkey Banana Problem.cpp">
+      <Filter>srm 589 div2</Filter>
+    </ClCompile>
+    <ClCompile Include="lightoj\1005 - Rooks.cpp">
+      <Filter>srm 589 div2</Filter>
+    </ClCompile>
+    <ClCompile Include="lightoj\1011 - Marriage Ceremonies.cpp">
+      <Filter>srm 589 div2</Filter>
+    </ClCompile>
+    <ClCompile Include="lightoj\1013 - Love Calculator.cpp">
+      <Filter>srm 589 div2</Filter>
+    </ClCompile>
+    <ClCompile Include="lightoj\1017 - Brush (III).cpp">
+      <Filter>srm 589 div2</Filter>
+    </ClCompile>
+    <ClCompile Include="lightoj\1018 - Brush (IV).cpp">
+      <Filter>srm 589 div2</Filter>
+    </ClCompile>
+    <ClCompile Include="contest\af prj\imp bonus assingement 892468 last try.cpp">
+      <Filter>srm 589 div2</Filter>
+    </ClCompile>
+    <ClCompile Include="lightoj\1021 - Painful Bases.cpp">
+      <Filter>srm 589 div2</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
