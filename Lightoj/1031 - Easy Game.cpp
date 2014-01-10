@@ -1,4 +1,4 @@
-#ifndef do_not_compile_this_file
+#ifdef do_not_compile_this_file
 #include<iostream>
 #include<cstdio>
 #include<algorithm>

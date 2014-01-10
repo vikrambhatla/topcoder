@@ -100,6 +100,12 @@
     <ClCompile Include="Lightoj\1031 - Easy Game.cpp">
       <Filter>srm 589 div2</Filter>
     </ClCompile>
+    <ClCompile Include="Lightoj\1032 - Fast Bit Calculations.cpp">
+      <Filter>srm 589 div2</Filter>
+    </ClCompile>
+    <ClCompile Include="Lightoj\1033 - Generating Palindromes.cpp">
+      <Filter>srm 589 div2</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="Lightoj\1021.pdf" />
