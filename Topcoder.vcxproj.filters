@@ -89,4 +89,7 @@
       <Filter>srm 589 div2</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Lightoj\1021.pdf" />
+  </ItemGroup>
 </Project>
