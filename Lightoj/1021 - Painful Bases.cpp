@@ -1,4 +1,4 @@
-#ifndef do_not_compile_this_file
+#ifdef do_not_compile_this_file
 #include<iostream>
 #include<cstdio>
 #include<algorithm>
@@ -32,7 +32,7 @@ void dfs(int mask){
 			dfs(mask & ~(1 << i));
 			++len;
 			rep(j, 0, k)
-				dp[mask][j] += dp[mask & ~(1 << i)][(j + k - i*pw[len - 1] % k) % k];
+				dp[mask][(j + i*pw[len - 1]) % k] += dp[mask & ~(1 << i)][j];
 		}
 	}
 }
@@ -47,9 +47,8 @@ int main() {
 		int mask = 0;
 		rep(i, 0, s.size()) mask = mask | mp[s[i]];
 		memset(vis, false, sizeof(vis));
-		//memset(dp, 0, sizeof(dp));
 		pw[0] = 1;
-		rep(i, 1, 17) pw[i] = pw[i - 1] * base;
+		rep(i, 1, 17) pw[i] = (pw[i - 1] * base) % k;
 		dp[0][0] = 1;
 		len = s.size();
 		dfs(mask);
