@@ -88,6 +88,12 @@
     <ClCompile Include="Lightoj\1021 - Painful Bases.cpp">
       <Filter>srm 589 div2</Filter>
     </ClCompile>
+    <ClCompile Include="Lightoj\1025 - The Specials Menu.cpp">
+      <Filter>srm 589 div2</Filter>
+    </ClCompile>
+    <ClCompile Include="Lightoj\1027 - A Dangerous Maze.cpp">
+      <Filter>srm 589 div2</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="Lightoj\1021.pdf" />
