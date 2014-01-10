@@ -36,6 +36,7 @@
     <ClCompile Include="Lightoj\1021 - Painful Bases.cpp" />
     <ClCompile Include="Lightoj\1025 - The Specials Menu.cpp" />
     <ClCompile Include="Lightoj\1027 - A Dangerous Maze.cpp" />
+    <ClCompile Include="Lightoj\1030 - Discovering Gold.cpp" />
     <ClCompile Include="TypoCoderDiv2.cpp" />
     <ClCompile Include="WinterAndCandies.cpp" />
     <ClCompile Include="WinterAndMandarins.cpp" />
