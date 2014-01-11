@@ -40,6 +40,8 @@
     <ClCompile Include="Lightoj\1031 - Easy Game.cpp" />
     <ClCompile Include="Lightoj\1032 - Fast Bit Calculations.cpp" />
     <ClCompile Include="Lightoj\1033 - Generating Palindromes.cpp" />
+    <ClCompile Include="Lightoj\1036 - A Refining Company.cpp" />
+    <ClCompile Include="Lightoj\1037 - Agent 47.cpp" />
     <ClCompile Include="TypoCoderDiv2.cpp" />
     <ClCompile Include="WinterAndCandies.cpp" />
     <ClCompile Include="WinterAndMandarins.cpp" />
