@@ -1,6 +1,7 @@
 #ifdef no_compile
 #include<array>
 #include<iostream>
+#include<time.h>
 using namespace std;
 #define rep(i,f,t) for(int i = f; i < t; ++i)
 
@@ -12,11 +13,22 @@ ostream& operator<<(ostream& os, const array<T, N>& arr){
 	return os;
 }
 
+int A[1000 * 1000 * 100];
+clock_t clk;
 int main(){
-	int A[10] = { 1, 2 };
-	int B[10] = { 1, 2};
-	rep(i, 0, 10) cout << A[i] << ' '; cout << endl;
-	rep(i, 0, 10) cout << B[i] << ' '; cout << endl;
+
+	clk = clock();
+	memset(A, -1, sizeof(A));
+	printf("CPU Clocks : %d\n", clock() - clk);
+	clk = clock();
+	fill(A, A + 1000 * 1000 * 100, -1);
+	printf("CPU Clocks : %d\n", clock() - clk);
+
+
+	//int A[10] = { 1, 2 };
+	//int B[10] = { 1, 2};
+	//rep(i, 0, 10) cout << A[i] << ' '; cout << endl;
+	//rep(i, 0, 10) cout << B[i] << ' '; cout << endl;
 	//array<array<int, 3>, 4> a;
 	//a[1][1] = 5;
 	//++a[0][4];
