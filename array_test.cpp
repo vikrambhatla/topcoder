@@ -2,6 +2,7 @@
 #include<array>
 #include<iostream>
 using namespace std;
+#define rep(i,f,t) for(int i = f; i < t; ++i)
 
 template<class T, unsigned int N>
 ostream& operator<<(ostream& os, const array<T, N>& arr){
@@ -12,10 +13,14 @@ ostream& operator<<(ostream& os, const array<T, N>& arr){
 }
 
 int main(){
-	array<array<int, 3>, 4> a;
-	a[1][1] = 5;
-	++a[0][4];
-	cout << a[1][1] << endl;
+	int A[10] = { 1, 2 };
+	int B[10] = { 1, 2};
+	rep(i, 0, 10) cout << A[i] << ' '; cout << endl;
+	rep(i, 0, 10) cout << B[i] << ' '; cout << endl;
+	//array<array<int, 3>, 4> a;
+	//a[1][1] = 5;
+	//++a[0][4];
+	//cout << a[1][1] << endl;
 	//array<array<int, 10>, 10> a;
 	//for (int i = 0; i < a.size(); ++i) a[i].fill(i);
 	//for (int i = 1; i < a.size(); i += 2) a[i].swap(a[i - 1]);

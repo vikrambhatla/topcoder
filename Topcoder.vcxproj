@@ -26,6 +26,7 @@
     <ClCompile Include="contest\ct 222\D.cpp" />
     <ClCompile Include="ErasingCharacters.cpp" />
     <ClCompile Include="FoxAndFencingEasy.cpp" />
+    <ClCompile Include="FoxConnection.cpp" />
     <ClCompile Include="IncrementAndDoubling.cpp" />
     <ClCompile Include="Lightoj\1004 - Monkey Banana Problem.cpp" />
     <ClCompile Include="Lightoj\1005 - Rooks.cpp" />
@@ -42,6 +43,10 @@
     <ClCompile Include="Lightoj\1033 - Generating Palindromes.cpp" />
     <ClCompile Include="Lightoj\1036 - A Refining Company.cpp" />
     <ClCompile Include="Lightoj\1037 - Agent 47.cpp" />
+    <ClCompile Include="Lightoj\1038 - Race to 1 Again.cpp" />
+    <ClCompile Include="Lightoj\1044 - Palindrome Partitioning.cpp" />
+    <ClCompile Include="Lightoj\test_prbabilities.cpp" />
+    <ClCompile Include="PowerOfThree.cpp" />
     <ClCompile Include="TypoCoderDiv2.cpp" />
     <ClCompile Include="WinterAndCandies.cpp" />
     <ClCompile Include="WinterAndMandarins.cpp" />
