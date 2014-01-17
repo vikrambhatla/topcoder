@@ -127,6 +127,9 @@
     <ClCompile Include="Lightoj\1044 - Palindrome Partitioning.cpp">
       <Filter>srm 589 div2</Filter>
     </ClCompile>
+    <ClCompile Include="Codeforces Round #223 (Div. 1)\C. Sereja and Brackets.cpp">
+      <Filter>srm 589 div2</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="Lightoj\1021.pdf" />

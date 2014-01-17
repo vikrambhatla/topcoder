@@ -14,6 +14,7 @@
     <ClCompile Include="array_test.cpp" />
     <ClCompile Include="BinPacking.cpp" />
     <ClCompile Include="BinPackingEasy.cpp" />
+    <ClCompile Include="Codeforces Round #223 (Div. 1)\C. Sereja and Brackets.cpp" />
     <ClCompile Include="contest\af prj\imp bonus assignment retry.cpp" />
     <ClCompile Include="contest\af prj\imp bonus assignment.cpp" />
     <ClCompile Include="contest\af prj\imp bonus assingement 892468 last try.cpp" />
@@ -70,7 +71,7 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
     <ConfigurationType>Application</ConfigurationType>
     <UseDebugLibraries>false</UseDebugLibraries>
-    <PlatformToolset>v120</PlatformToolset>
+    <PlatformToolset>CTP_Nov2013</PlatformToolset>
     <WholeProgramOptimization>true</WholeProgramOptimization>
     <CharacterSet>Unicode</CharacterSet>
   </PropertyGroup>

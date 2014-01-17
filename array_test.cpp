@@ -5,24 +5,29 @@
 using namespace std;
 #define rep(i,f,t) for(int i = f; i < t; ++i)
 
-template<class T, unsigned int N>
-ostream& operator<<(ostream& os, const array<T, N>& arr){
-	for (int i = 0; i < N; ++i)
-		os << arr[i] << (i < N - 1 ? "," : "");
-	os << endl;
-	return os;
-}
-
-int A[1000 * 1000 * 100];
-clock_t clk;
+//template<class T, unsigned int N>
+//ostream& operator<<(ostream& os, const array<T, N>& arr){
+//	for (int i = 0; i < N; ++i)
+//		os << arr[i] << (i < N - 1 ? "," : "");
+//	os << endl;
+//	return os;
+//}
+//
+//int A[1000 * 1000 * 100];
+//clock_t clk;
 int main(){
+	//ios_base::sync_with_stdio(false);
+	//int A[10] = { 1, 2, 3, 4, 5, 9, 8, 7, 6, 10 };
+	//sort(begin(A), end(A));
+	//copy(istream_iterator<int>(cin), begin(A));
+	//copy(begin(A), end(A), ostream_iterator<int>(cout, " "));
 
-	clk = clock();
-	memset(A, -1, sizeof(A));
-	printf("CPU Clocks : %d\n", clock() - clk);
-	clk = clock();
-	fill(A, A + 1000 * 1000 * 100, -1);
-	printf("CPU Clocks : %d\n", clock() - clk);
+	//clk = clock();
+	//memset(A, -1, sizeof(A));
+	//printf("CPU Clocks : %d\n", clock() - clk);
+	//clk = clock();
+	//fill(A, A + 1000 * 1000 * 100, -1);
+	//printf("CPU Clocks : %d\n", clock() - clk);
 
 
 	//int A[10] = { 1, 2 };
