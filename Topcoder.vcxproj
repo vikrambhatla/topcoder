@@ -11,6 +11,12 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="contest\s2e2\BigInt.cpp" />
+    <ClCompile Include="contest\s2e2\s2e2_A.cpp" />
+    <ClCompile Include="contest\s2e2\s2e2_B.cpp" />
+    <ClCompile Include="contest\s2e2\s2e2_D.cpp" />
+    <ClCompile Include="contest\s2e2\s2e2_E.cpp" />
+    <ClCompile Include="contest\s2e2\s2e2_F.cpp" />
     <ClCompile Include="Lightoj\1057 - Collecting Gold.cpp" />
     <ClCompile Include="array_test.cpp" />
     <ClCompile Include="BinPacking.cpp" />
