@@ -196,6 +196,18 @@
     <ClCompile Include="contest\s2e2\s2e2_E.cpp">
       <Filter>srm 589 div2</Filter>
     </ClCompile>
+    <ClCompile Include="Codeforces Round #227 (Div. 2)\A. George and Sleep.cpp">
+      <Filter>srm 589 div2</Filter>
+    </ClCompile>
+    <ClCompile Include="Codeforces Round #227 (Div. 2)\B. George and Round.cpp">
+      <Filter>srm 589 div2</Filter>
+    </ClCompile>
+    <ClCompile Include="Codeforces Round #227 (Div. 2)\C. George and Number.cpp">
+      <Filter>srm 589 div2</Filter>
+    </ClCompile>
+    <ClCompile Include="Codeforces Round #227 (Div. 2)\E. George and Cards.cpp">
+      <Filter>srm 589 div2</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="Lightoj\1021.pdf" />

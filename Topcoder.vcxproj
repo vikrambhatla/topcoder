@@ -11,6 +11,10 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Codeforces Round #227 (Div. 2)\A. George and Sleep.cpp" />
+    <ClCompile Include="Codeforces Round #227 (Div. 2)\B. George and Round.cpp" />
+    <ClCompile Include="Codeforces Round #227 (Div. 2)\C. George and Number.cpp" />
+    <ClCompile Include="Codeforces Round #227 (Div. 2)\E. George and Cards.cpp" />
     <ClCompile Include="contest\s2e2\BigInt.cpp" />
     <ClCompile Include="contest\s2e2\s2e2_A.cpp" />
     <ClCompile Include="contest\s2e2\s2e2_B.cpp" />
